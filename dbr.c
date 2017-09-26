@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stddef.h>
 #include "dbr.h"
 
 #define DBR_NO_MEMORY 0
@@ -78,7 +77,7 @@ char* decodeFile(const char* pFileName, int iFormat)
     {
         return NULL;
     }
-    
+
     // Initialize Dynamsoft Barcode Reader
 	int iMaxCount = 0x7FFFFFFF;
 	SBarcodeResultArray *pResults = NULL;
