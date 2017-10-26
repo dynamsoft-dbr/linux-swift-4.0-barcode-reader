@@ -4,7 +4,7 @@ Build a command line barcode reader in Swift and C on Linux.
 ## Environment
 * Swift 4.0
 * Ubuntu 14.04
-* Dynamsoft Barcode Reader SDK 5.2 for Linux. Please contact support@dynamsoft.com to get the beta version and trial license.
+* [Dynamsoft Barcode Reader SDK 5.2 for Linux](https://www.dynamsoft.com/Downloads/Dynamic-Barcode-Reader-for-Linux-Download.aspx). 
 
 ## How to Build and Run
 1. Copy libDynamsoftBarcodeReaderx64.so to **/usr/lib/**:
