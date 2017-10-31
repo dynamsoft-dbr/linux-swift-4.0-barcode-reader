@@ -32,4 +32,5 @@ Build a command line barcode reader in Swift and C on Linux.
     ```
     ![swift barcode reader](screenshot/swift-barcode.PNG)
 
-
+## Blog
+[Building Swift Barcode Reader with DBR 5.2 for Linux](http://www.codepool.biz/linux-swift-barcode-reader.html)
